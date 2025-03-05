@@ -1,8 +1,8 @@
 # Matthew-Zimmerman-R-Work
 
-For my Energy Informatics Course
+# For my Energy Informatics Course
 
-R Assignment 1
+# R Partner Assignment 1
 
 ![P1 Energy Informatics](https://github.com/user-attachments/assets/f40fdab8-af10-46b5-8a7f-af0c253380d4)
 
@@ -10,7 +10,7 @@ R Assignment 1
 
 ![P1 3 Energy Informatics](https://github.com/user-attachments/assets/3bc27bc0-6a34-40db-b4c5-c67d4bcf042b)
 
-R Assignment 2
+# R Partner Assignment 2
 
 ![P2 Energy Infomatics](https://github.com/user-attachments/assets/4b757ea3-1f57-412a-b13c-0a7420d1f250)
 
